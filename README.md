@@ -42,32 +42,6 @@ This dashboard provides a comprehensive analysis of sales performance for a spec
 ### 6. **Geographical Insights**
 - Top-performing cities indicate concentrated customer bases for future marketing strategies.
 
----
-
-## 📌 Strategic Recommendations
-
-### 1. **Focus on High-Performing Occasions**
-- Invest in targeted campaigns for **Raksha Bandhan** and **Holi**.
-- Create promotional bundles for other occasions to increase their contribution.
-
-### 2. **Category-Specific Strategies**
-- Increase inventory and visibility for high-demand categories like **Soft Toys** and **Sweets**.
-- Explore product diversification for low-performing categories like **Mugs**.
-
-### 3. **Enhance Operational Efficiency**
-- Reduce the average order-to-delivery time (currently 5.53 days) to improve customer satisfaction.
-- Analyze peak sales hours for better staff allocation and inventory management.
-
-### 4. **Leverage Time-Based Insights**
-- Capitalize on the **March sales spike** with seasonal offers and early marketing.
-- Reassess marketing strategies for months with declining revenues.
-
-### 5. **Expand Geographic Reach**
-- Target underperforming regions using lessons from high-performing cities.
-- Customize marketing efforts to regional preferences and needs.
-
----
-
 ## 🔮 Future Steps
 1. Continuously monitor key metrics to identify shifting trends.
 2. Incorporate customer feedback to refine product and service offerings.
